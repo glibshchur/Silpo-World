@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="2.1" bbox="-4.0157 -1.4631 1.0777 39.7998 4.9360 30.3233" targetId="e7e4e05d1e2f42b18297e250079e17af" name="Silpo_Kulp" pathAuthoring="e7e4e05d1e2f42b18297e250079e17af_authoring.glb" pathOcclusion="e7e4e05d1e2f42b18297e250079e17af_occlusion.3dt" pathNavMesh="e7e4e05d1e2f42b18297e250079e17af_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>
